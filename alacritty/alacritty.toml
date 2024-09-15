@@ -1,0 +1,31 @@
+[window]
+opacity = 0.9
+
+[font]
+size = 12
+normal = { family = "Hack Nerd Font", style = "Bold" }
+
+[colors.bright]
+black = "#444b6a"
+blue = "#7da6ff"
+cyan = "#0db9d7"
+green = "#b9f27c"
+magenta = "#bb9af7"
+red = "#fe0100"
+white = "#acb0d0"
+yellow = "#feff00"
+
+[colors.normal]
+black = "#32344a"
+red = "#f7768e"
+green = "#9ece6a"
+yellow = "#e0af68"
+blue = "#7aa2f7"
+magenta = "#ad8ee6"
+cyan = "#449dab"
+white = "#787c99"
+
+[colors.primary]
+background = "#1a1b26"
+foreground = "#a9b1d6"
+
